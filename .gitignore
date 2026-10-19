@@ -22,3 +22,7 @@ sneaker/*.glb
 .idea/
 Thumbs.db
 desktop.ini
+
+# Local tooling artifacts
+.playwright-mcp/
+
