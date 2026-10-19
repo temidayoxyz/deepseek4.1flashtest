@@ -1,0 +1,5 @@
+# Render machine dependencies (Blender-as-a-Python-module + numerics).
+#
+# bpy wheels ship their own Blender build; install into a Python 3.11 venv.
+bpy==5.0.1
+numpy==1.26.4

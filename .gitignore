@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Blender
+*.blend1
+*.blend2
+
+# Working files: scratch renders, diagnostic passes and scene copies made while
+# iterating. Only the curated images in sneaker/renders/ and the exports in
+# sneaker/models/ are published.
+sneaker/*.png
+sneaker/*.jpg
+sneaker/*.blend
+sneaker/*.glb
+*.out
+
+# Editor / OS noise
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
